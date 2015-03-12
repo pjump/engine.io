@@ -28,6 +28,6 @@
   "scripts": { "test" : "make test" },
   "repository": {
     "type": "git",
-    "url": "git@github.com:pjump/engine.io.git"
+    "url": "git+ssh://git@github.com:pjump/engine.io.git"
   }
 }
